@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 64,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      },
+      {
+        "value": "Blocks.WOOL#5"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.ENDER_PEARL"
+    },
+    "name": "stringod_change_ender_pearl",
+    "namespace": "mod"
+  }
+}

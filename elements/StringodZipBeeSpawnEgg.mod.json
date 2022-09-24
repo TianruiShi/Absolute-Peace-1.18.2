@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.BEE_SPAWN_EGG"
+    },
+    "name": "stringod_zip_bee_spawn_egg",
+    "namespace": "mod"
+  }
+}

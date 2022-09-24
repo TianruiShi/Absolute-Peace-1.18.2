@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 64,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.DETECTOR_RAIL"
+    },
+    "name": "stringod_zip_detector_rail",
+    "namespace": "mod"
+  }
+}

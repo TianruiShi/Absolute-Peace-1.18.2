@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_shovel",
+    "customModelName": "Normal",
+    "name": "Stringod Item Shi Xiong",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 36.0,
+    "attackSpeed": 1.0,
+    "enchantability": 69,
+    "damageVsEntity": 4.0,
+    "usageCount": 369,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true
+  }
+}

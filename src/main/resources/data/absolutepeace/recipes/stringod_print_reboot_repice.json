@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "1": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "2": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "3": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "6": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "7": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "8": {
+      "item": "absolutepeace:stringod_craft_table"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_print_reboot",
+    "count": 1
+  }
+}

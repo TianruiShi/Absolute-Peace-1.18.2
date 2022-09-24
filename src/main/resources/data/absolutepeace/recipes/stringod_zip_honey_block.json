@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:honey_bottle"
+    },
+    "1": {
+      "item": "minecraft:honey_bottle"
+    },
+    "2": {
+      "item": "minecraft:honey_bottle"
+    },
+    "3": {
+      "item": "minecraft:honey_bottle"
+    },
+    "4": {
+      "item": "minecraft:honey_bottle"
+    },
+    "5": {
+      "item": "minecraft:honey_bottle"
+    },
+    "6": {
+      "item": "minecraft:honey_bottle"
+    },
+    "7": {
+      "item": "minecraft:honey_bottle"
+    },
+    "8": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraft:honeycomb_block",
+    "count": 64
+  }
+}

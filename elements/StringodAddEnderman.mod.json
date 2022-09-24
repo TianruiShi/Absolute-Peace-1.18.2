@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "CUSTOM:StringodCraftTable"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      },
+      {
+        "value": "Items.SPAWN_EGG#58"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StringodEndermanBox"
+    },
+    "name": "stringod_add_enderman",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "CUSTOM:StringodCraftTable"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StringodCoalWorld"
+    },
+    "name": "stringod_coal_world_tool",
+    "namespace": "mod"
+  }
+}

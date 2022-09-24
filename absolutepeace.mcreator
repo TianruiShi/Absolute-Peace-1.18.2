@@ -1,0 +1,2029 @@
+{
+  "mod_elements": [
+    {
+      "name": "StringodBeef",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_beef"
+    },
+    {
+      "name": "StringodBlazePowder",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_blaze_powder"
+    },
+    {
+      "name": "StringodChest",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_chest"
+    },
+    {
+      "name": "Stringodspawncow",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringodspawncow"
+    },
+    {
+      "name": "StringodDragonEgg",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_dragon_egg"
+    },
+    {
+      "name": "StringodZipEgg",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_egg"
+    },
+    {
+      "name": "StringodEnderPearl",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_ender_pearl"
+    },
+    {
+      "name": "StringodEndermanSpawnEgg",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_enderman_spawn_egg"
+    },
+    {
+      "name": "StringodGhastTear",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_ghast_tear"
+    },
+    {
+      "name": "StringodIronBarsSpawner",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_bars_spawner"
+    },
+    {
+      "name": "StringodZipLavaBucket",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_lava_bucket"
+    },
+    {
+      "name": "StringodMilkBucket",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_milk_bucket"
+    },
+    {
+      "name": "StringodZipObsidian",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_obsidian"
+    },
+    {
+      "name": "StringodSlimeBall",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_slime_ball"
+    },
+    {
+      "name": "StringodSlimeSpawnEgg",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_slime_spawn_egg"
+    },
+    {
+      "name": "StringodZipIronIngot",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_iron_ingot"
+    },
+    {
+      "name": "StringodZipGoldIngot",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_gold_ingot"
+    },
+    {
+      "name": "StringodZipDiamond",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_diamond"
+    },
+    {
+      "name": "StringodZipQuartz",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_quartz"
+    },
+    {
+      "name": "StringodDiamondHorseArmor",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_diamond_horse_armor"
+    },
+    {
+      "name": "StringodGoldenHorseArmor",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_golden_horse_armor"
+    },
+    {
+      "name": "StringodIronHorseArmor",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_horse_armor"
+    },
+    {
+      "name": "StringodLeatherHorseArmor",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_leather_horse_armor"
+    },
+    {
+      "name": "StringodZipRail",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_rail"
+    },
+    {
+      "name": "StringodZipActivatorRail",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_activator_rail"
+    },
+    {
+      "name": "StringodZipDetectorRail",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_detector_rail"
+    },
+    {
+      "name": "StringodZipPoweredRail",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_powered_rail"
+    },
+    {
+      "name": "StringodZipNetherWart",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_nether_wart"
+    },
+    {
+      "name": "StringodUnzipSpiderEye",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_spider_eye"
+    },
+    {
+      "name": "StringodUnzipEnderEye",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_ender_eye"
+    },
+    {
+      "name": "StringodZipTotemOfUndying",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_totem_of_undying"
+    },
+    {
+      "name": "StringodZipShulkerShell",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_shulker_shell"
+    },
+    {
+      "name": "StringodZipChorusFruit",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_chorus_fruit"
+    },
+    {
+      "name": "StringodZipPoppedChorusFruit",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_popped_chorus_fruit"
+    },
+    {
+      "name": "StringodZipDragonBreath",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_dragon_breath"
+    },
+    {
+      "name": "StringodZipTrident",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_trident"
+    },
+    {
+      "name": "StringodZipSaddle",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_saddle"
+    },
+    {
+      "name": "StringodZipRabbitHide",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_rabbit_hide"
+    },
+    {
+      "name": "StringodZipRottenFlesh",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_rotten_flesh"
+    },
+    {
+      "name": "StringodZipPufferfish",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_pufferfish"
+    },
+    {
+      "name": "StringodZipMagmaBlock",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_magma_block"
+    },
+    {
+      "name": "StringodZipBookshelf",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_bookshelf"
+    },
+    {
+      "name": "StringodZipElytra",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_elytra"
+    },
+    {
+      "name": "StringodZipFeather",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_feather"
+    },
+    {
+      "name": "StringodZipHoneyBottle",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_honey_bottle"
+    },
+    {
+      "name": "StringodZipHoneyBlock",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_honey_block"
+    },
+    {
+      "name": "StringodZipBeeSpawnEgg",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_bee_spawn_egg"
+    },
+    {
+      "name": "StringodZipBeeNest",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_bee_nest"
+    },
+    {
+      "name": "StringodZipBook",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_book"
+    },
+    {
+      "name": "StringodZipEmerald",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_emerald"
+    },
+    {
+      "name": "StringodUnzipWoolString",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_wool_string"
+    },
+    {
+      "name": "StringodZipCoal",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_coal"
+    },
+    {
+      "name": "StringodZipRedstone",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_redstone"
+    },
+    {
+      "name": "StringodZipLapis",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zip_lapis"
+    },
+    {
+      "name": "StringodUnzipGunpowder",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_gunpowder"
+    },
+    {
+      "name": "StringodUnzipBone",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_bone"
+    },
+    {
+      "name": "StringodUnzipFireworks",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_fireworks"
+    },
+    {
+      "name": "StringodChangeShulkerBox",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_change_shulker_box"
+    },
+    {
+      "name": "StringodChangeEnderPearl",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_change_ender_pearl"
+    },
+    {
+      "name": "StringodChangeGlowstoneDust",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_change_glowstone_dust"
+    },
+    {
+      "name": "StringodCraftTable",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_craft_table"
+    },
+    {
+      "name": "StringodUnzipPhantomMembrane",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_unzip_phantom_membrane"
+    },
+    {
+      "name": "StringodAddCraftTableBlock",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_craft_table_block"
+    },
+    {
+      "name": "StringodIronWorld",
+      "type": "dimension",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodGoldWorld",
+      "type": "dimension",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_gold_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodDiamondWorld",
+      "type": "dimension",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_diamond_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodEmeraldWorld",
+      "type": "dimension",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_emerald_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodCoalWorld",
+      "type": "dimension",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_coal_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodIronWorldTool",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_world_tool"
+    },
+    {
+      "name": "StringodGoldWorldTool",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_gold_world_tool"
+    },
+    {
+      "name": "StringodDiamondWorldTool",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_diamond_world_tool"
+    },
+    {
+      "name": "StringodCoalWorldTool",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_coal_world_tool"
+    },
+    {
+      "name": "StringodEmeraldWorldTool",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_emerald_world_tool"
+    },
+    {
+      "name": "StringodAddVillager",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_villager"
+    },
+    {
+      "name": "StringodAddCowSpawn",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_cow_spawn"
+    },
+    {
+      "name": "StringodAddSheepSpawn",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_sheep_spawn"
+    },
+    {
+      "name": "StringodPrintReboot",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_print_reboot"
+    },
+    {
+      "name": "StringodPrintRebootRepice",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_print_reboot_repice"
+    },
+    {
+      "name": "StringodPrintRebootGUI",
+      "type": "gui",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_print_reboot_gui"
+    },
+    {
+      "name": "StringodQuartzWorld",
+      "type": "dimension",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_quartz_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "StringodQuartzWorldGUI",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_quartz_world_gui"
+    },
+    {
+      "name": "StringodSpiderBox",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_spider_box"
+    },
+    {
+      "name": "StringodSpiderBoxEvent",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stringod_spider_box_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddSpiderRepice",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_spider_repice"
+    },
+    {
+      "name": "StringodBlazeBox",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_blaze_box"
+    },
+    {
+      "name": "StringodBlazeBoxEvent",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stringod_blaze_box_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddBlazeRepice",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_blaze_repice"
+    },
+    {
+      "name": "StringodAddEnderRepice",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_ender_repice"
+    },
+    {
+      "name": "StringodAddBlazeRodRepice",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_blaze_rod_repice"
+    },
+    {
+      "name": "StringodPrintRebootGUIDangZheGeJieMianDaKaiQiJianMeiKeFaSheng",
+      "type": "procedure",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_print_reboot_gui_dang_zhe_ge_jie_mian_da_kai_qi_jian_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodCraftTableGUI",
+      "type": "gui",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_craft_table_gui"
+    },
+    {
+      "name": "StringiodPrintRebootOpenGUI",
+      "type": "procedure",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringiod_print_reboot_open_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodCraftTableOpenGui",
+      "type": "procedure",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_craft_table_open_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodCraftTableGUIDangZheGeJieMianDaKaiQiJianMeiKeFaSheng",
+      "type": "procedure",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_craft_table_gui_dang_zhe_ge_jie_mian_da_kai_qi_jian_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClearSpiderModelDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clear_spider_model",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Automatic",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "automatic"
+    },
+    {
+      "name": "StringodSkeletonBox",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_skeleton_box"
+    },
+    {
+      "name": "StringodSkeletonBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_skeleton_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddSkeletonRepice",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_skeleton_repice"
+    },
+    {
+      "name": "StringodCreeperBox",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_creeper_box"
+    },
+    {
+      "name": "StringodCreeperBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_creeper_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddCreeperRepice",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_creeper_repice"
+    },
+    {
+      "name": "StringodSlimeBox",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_slime_box"
+    },
+    {
+      "name": "StringodSlimeBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_slime_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddSlimeRepice",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_slime_repice"
+    },
+    {
+      "name": "StringodMagmaBox",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_magma_box"
+    },
+    {
+      "name": "StringodMagmaBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_magma_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddMagmaRepice",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_magma_repice"
+    },
+    {
+      "name": "StringodBlackEgg",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_black_egg"
+    },
+    {
+      "name": "StringodEndermanBox",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_enderman_box"
+    },
+    {
+      "name": "StringodEndermanBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_enderman_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddEnderman",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_enderman"
+    },
+    {
+      "name": "StringodAddRottenFlesh",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_rotten_flesh"
+    },
+    {
+      "name": "StringodZombieBox",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zombie_box"
+    },
+    {
+      "name": "StringodZombieBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zombie_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddZombieBox",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_zombie_box"
+    },
+    {
+      "name": "StringodDrownedBox",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_drowned_box"
+    },
+    {
+      "name": "StringodDrownedBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_drowned_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddDrowned",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_drowned"
+    },
+    {
+      "name": "StringodZombifiedBox",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zombified_box"
+    },
+    {
+      "name": "StringodZombifiedBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_zombified_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddZombified",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_zombified"
+    },
+    {
+      "name": "StringodEvokerBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_evoker_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodEvokerBox",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_evoker_box"
+    },
+    {
+      "name": "StringodAddEvoker",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_evoker"
+    },
+    {
+      "name": "StringodPillagerBox",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_pillager_box"
+    },
+    {
+      "name": "StringodPillagerBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_pillager_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddPillager",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_pillager"
+    },
+    {
+      "name": "StringodSpawnExp",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_spawn_exp"
+    },
+    {
+      "name": "StringodSpawnExpDangFangKuaiBeiWanJiaPoPiShi",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_spawn_exp_dang_fang_kuai_bei_wan_jia_po_pi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodItemShiGe",
+      "type": "tool",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_item_shi_ge"
+    },
+    {
+      "name": "StringodAddItemShiGe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_item_shi_ge"
+    },
+    {
+      "name": "StringodAddWaterFuel",
+      "type": "itemextension",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_water_fuel"
+    },
+    {
+      "name": "StringodAddLavaFuel",
+      "type": "itemextension",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_lava_fuel"
+    },
+    {
+      "name": "StringODCharcoalBox",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_charcoal_box"
+    },
+    {
+      "name": "StringODCharcoalBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_charcoal_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringODAddCharcoal",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_add_charcoal"
+    },
+    {
+      "name": "StringodCoalBox",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_coal_box"
+    },
+    {
+      "name": "StringodCoalBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_coal_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddCoal",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_coal"
+    },
+    {
+      "name": "StringodCopperBox",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_copper_box"
+    },
+    {
+      "name": "StringodCopperBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_copper_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringAddCopper",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_add_copper"
+    },
+    {
+      "name": "StringodDiamondBox",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_diamond_box"
+    },
+    {
+      "name": "StringodDiamondBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_diamond_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddDiamond",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_diamond"
+    },
+    {
+      "name": "StringodEmeraldBox",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_emerald_box"
+    },
+    {
+      "name": "StringodEmeraldBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_emerald_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddEmerald",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_emerald"
+    },
+    {
+      "name": "StringodGoldBox",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_gold_box"
+    },
+    {
+      "name": "StringodGoldBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_gold_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddGold",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_gold"
+    },
+    {
+      "name": "StringodIronBox",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_box"
+    },
+    {
+      "name": "StringodIronBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_iron_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddIron",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_iron"
+    },
+    {
+      "name": "StringodNetheriteBox",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_netherite_box"
+    },
+    {
+      "name": "StringodNetheriteBoxGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_netherite_box_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddNetherite",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_netherite"
+    },
+    {
+      "name": "StringodItemRuiGe",
+      "type": "tool",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_item_rui_ge"
+    },
+    {
+      "name": "StringodAddRuiGe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_rui_ge"
+    },
+    {
+      "name": "StringodItemGeGe",
+      "type": "tool",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_item_ge_ge"
+    },
+    {
+      "name": "StringodAddGeGe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_ge_ge"
+    },
+    {
+      "name": "StringodItemShiXiong",
+      "type": "tool",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_item_shi_xiong"
+    },
+    {
+      "name": "StringodAddShiXiong",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_shi_xiong"
+    },
+    {
+      "name": "PinkCeatGUI",
+      "type": "gui",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_ceat_gui"
+    },
+    {
+      "name": "StringodPinkBigCheat",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_pink_big_cheat"
+    },
+    {
+      "name": "PinkCeatGUIDangZheGeJieMianDaKaiQiJianMeiKeFaSheng",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_ceat_gui_dang_zhe_ge_jie_mian_da_kai_qi_jian_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodAddPinkCheat",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_pink_cheat"
+    },
+    {
+      "name": "StringodSuperJumpDangShiTiZaiFangKuaiShangXingZouShi",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_super_jump_dang_shi_ti_zai_fang_kuai_shang_xing_zou_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodSuperJump",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_super_jump"
+    },
+    {
+      "name": "StringodAddSuperJump",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_super_jump"
+    },
+    {
+      "name": "StringodDrawHeadPic",
+      "type": "painting",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_draw_head_pic"
+    },
+    {
+      "name": "StringodDrawOldHeadPic",
+      "type": "painting",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_draw_old_head_pic"
+    },
+    {
+      "name": "StringodDrawBgPic",
+      "type": "painting",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_draw_bg_pic"
+    },
+    {
+      "name": "StringodDrawPixel",
+      "type": "painting",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_draw_pixel"
+    },
+    {
+      "name": "StringodDrawWeChatScreenPic",
+      "type": "painting",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_draw_we_chat_screen_pic"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.absolutepeace.stringod_drowned_box": "Stringod Drowned Box",
+      "item.absolutepeace.stringod_emerald_world": "Stringod Emerald World Portal Igniter",
+      "block.absolutepeace.stringod_spawn_exp": "Stringod Spawn Exp",
+      "block.absolutepeace.string_od_charcoal_box": "String OD Charcoal Box",
+      "block.absolutepeace.stringod_enderman_box": "Stringod Enderman Box",
+      "item.absolutepeace.stringod_diamond_world": "Stringod Diamond World Portal Igniter",
+      "block.absolutepeace.stringod_zombified_box": "Stringod Zombified Box",
+      "item.absolutepeace.stringod_iron_world": "Stringod Iron World Portal Igniter",
+      "item.absolutepeace.stringod_item_rui_ge": "Stringod Item Rui Ge",
+      "block.absolutepeace.stringod_coal_box": "Stringod Coal Box",
+      "block.absolutepeace.stringod_skeleton_box": "Stringod Skeleton Box",
+      "block.absolutepeace.automatic": "Automatic",
+      "block.absolutepeace.stringod_pink_big_cheat": "Stringod Pink Big Cheat",
+      "item.absolutepeace.stringod_gold_world": "Stringod Gold World Portal Igniter",
+      "block.absolutepeace.stringod_diamond_box": "Stringod Diamond Box",
+      "item.absolutepeace.stringod_quartz_world": "Stringod Quartz World Portal Igniter",
+      "block.absolutepeace.stringod_netherite_box": "Stringod Netherite Box",
+      "block.absolutepeace.stringod_magma_box": "Stringod Magma Box",
+      "item.absolutepeace.stringod_item_shi_xiong": "Stringod Item Shi Xiong",
+      "block.absolutepeace.stringod_print_reboot": "Stringod Print Reboot",
+      "block.absolutepeace.stringod_gold_box": "Stringod Gold Box",
+      "item.absolutepeace.stringod_item_shi_ge": "Stringod Item Shi Ge",
+      "block.absolutepeace.stringod_blaze_box": "Stringod Blaze Box",
+      "block.absolutepeace.stringod_zombie_box": "Stringod Zombie Box",
+      "block.absolutepeace.stringod_emerald_box": "Stringod Emerald Box",
+      "block.absolutepeace.stringod_slime_box": "Stringod Slime Box",
+      "block.absolutepeace.stringod_evoker_box": "Stringod Evoker Box",
+      "item.absolutepeace.stringod_item_ge_ge": "Stringod Item Ge Ge",
+      "item.absolutepeace.stringod_coal_world": "Stringod Coal World Portal Igniter",
+      "block.absolutepeace.stringod_spider_box": "Stringod Spider Box",
+      "block.absolutepeace.stringod_creeper_box": "Stringod Creeper Box",
+      "block.absolutepeace.stringod_craft_table": "Stringod Craft Table",
+      "block.absolutepeace.stringod_iron_box": "Stringod Iron Box",
+      "block.absolutepeace.stringod_copper_box": "Stringod Copper Box",
+      "block.absolutepeace.stringod_super_jump": "Stringod Super Jump",
+      "block.absolutepeace.stringod_pillager_box": "Stringod Pillager Box"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "absolutepeace",
+    "modName": "AbsolutePeace",
+    "version": "1.5.2",
+    "description": "绝对和平的生存",
+    "author": "StringOD",
+    "websiteURL": "https://stringod.gitee.io/",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mclogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "StringOD",
+    "modElementsPackage": "net.mcreator.absolutepeace",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "smithing_table_hammer",
+    "customModelName": "Normal",
+    "name": "Stringod Item Rui Ge",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 36.0,
+    "attackSpeed": 1.0,
+    "enchantability": 69,
+    "damageVsEntity": 9.0,
+    "usageCount": 369,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true
+  }
+}

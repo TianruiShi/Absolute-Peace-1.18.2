@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crossbow"
+    },
+    "1": {
+      "item": "minecraft:crossbow"
+    },
+    "2": {
+      "item": "minecraft:crossbow"
+    },
+    "3": {
+      "item": "minecraft:crossbow"
+    },
+    "4": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "5": {
+      "item": "minecraft:crossbow"
+    },
+    "6": {
+      "item": "minecraft:crossbow"
+    },
+    "7": {
+      "item": "minecraft:crossbow"
+    },
+    "8": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_pillager_box",
+    "count": 1
+  }
+}

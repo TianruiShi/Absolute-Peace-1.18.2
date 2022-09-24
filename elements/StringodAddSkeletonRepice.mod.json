@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "CUSTOM:StringodCraftTable"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.BONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StringodSkeletonBox"
+    },
+    "name": "stringod_add_skeleton_repice",
+    "namespace": "mod"
+  }
+}

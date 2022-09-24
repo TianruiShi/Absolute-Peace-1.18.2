@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BEE_NEST"
+    },
+    "name": "stringod_zip_bee_nest",
+    "namespace": "mod"
+  }
+}

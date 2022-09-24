@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/automatic",
+    "up": "absolutepeace:blocks/mcreatorprintreboot",
+    "north": "absolutepeace:blocks/zombified_piglin_je9",
+    "east": "absolutepeace:blocks/staircase_gimp",
+    "south": "absolutepeace:blocks/zombified_piglin_je9",
+    "west": "absolutepeace:blocks/staircase_gimp",
+    "particle": "absolutepeace:blocks/automatic"
+  }
+}

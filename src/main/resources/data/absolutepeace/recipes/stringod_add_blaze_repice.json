@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_rod"
+    },
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_blaze_box",
+    "count": 1
+  }
+}

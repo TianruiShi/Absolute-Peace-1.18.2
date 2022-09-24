@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 64,
+    "group": "stringod",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      },
+      {
+        "value": "Items.RABBIT_HIDE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.RABBIT_HIDE"
+    },
+    "name": "stringod_zip_rabbit_hide",
+    "namespace": "mod"
+  }
+}

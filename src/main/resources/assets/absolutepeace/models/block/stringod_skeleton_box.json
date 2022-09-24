@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/automatic",
+    "up": "absolutepeace:blocks/staircase_gimp",
+    "north": "absolutepeace:blocks/skeleton_aiming_je2_be3",
+    "east": "absolutepeace:blocks/automatic",
+    "south": "absolutepeace:blocks/automatic",
+    "west": "absolutepeace:blocks/automatic",
+    "particle": "absolutepeace:blocks/automatic"
+  }
+}

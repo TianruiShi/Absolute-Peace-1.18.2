@@ -1,0 +1,16 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_tear",
+    "count": 9
+  }
+}

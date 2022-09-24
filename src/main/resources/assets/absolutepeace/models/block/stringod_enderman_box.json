@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/mcreatorprintreboot",
+    "up": "absolutepeace:blocks/headpic",
+    "north": "absolutepeace:blocks/enderman_je2",
+    "east": "absolutepeace:blocks/staircase_gimp",
+    "south": "absolutepeace:blocks/enderman_je2",
+    "west": "absolutepeace:blocks/staircase_gimp",
+    "particle": "absolutepeace:blocks/mcreatorprintreboot"
+  }
+}

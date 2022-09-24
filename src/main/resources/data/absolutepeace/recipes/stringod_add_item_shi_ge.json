@@ -1,0 +1,30 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "6": {
+      "item": "minecraft:diamond_block"
+    },
+    "7": {
+      "item": "minecraft:diamond_sword"
+    },
+    "8": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_item_shi_ge",
+    "count": 1
+  }
+}

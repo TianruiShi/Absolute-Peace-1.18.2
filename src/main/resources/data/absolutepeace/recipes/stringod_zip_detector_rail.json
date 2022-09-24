@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:detector_rail"
+    },
+    "1": {
+      "item": "minecraft:detector_rail"
+    },
+    "2": {
+      "item": "minecraft:detector_rail"
+    },
+    "3": {
+      "item": "minecraft:detector_rail"
+    },
+    "4": {
+      "item": "minecraft:detector_rail"
+    },
+    "5": {
+      "item": "minecraft:detector_rail"
+    },
+    "6": {
+      "item": "minecraft:detector_rail"
+    },
+    "7": {
+      "item": "minecraft:detector_rail"
+    },
+    "8": {
+      "item": "minecraft:detector_rail"
+    }
+  },
+  "result": {
+    "item": "minecraft:detector_rail",
+    "count": 64
+  }
+}

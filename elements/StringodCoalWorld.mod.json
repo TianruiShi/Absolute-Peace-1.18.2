@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "void"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Stringod Coal World Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "logo",
+    "portalTexture": "headpic",
+    "enablePortal": true
+  }
+}

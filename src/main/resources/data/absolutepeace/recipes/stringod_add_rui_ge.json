@@ -1,0 +1,30 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "7": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_item_rui_ge",
+    "count": 1
+  }
+}

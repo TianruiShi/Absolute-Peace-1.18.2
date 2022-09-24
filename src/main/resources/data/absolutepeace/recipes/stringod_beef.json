@@ -1,0 +1,37 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:beef"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beef",
+    "count": 64
+  }
+}

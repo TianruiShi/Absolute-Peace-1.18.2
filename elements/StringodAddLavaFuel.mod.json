@@ -1,0 +1,15 @@
+{
+  "_fv": 33,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "Items.LAVA_BUCKET"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 9600.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

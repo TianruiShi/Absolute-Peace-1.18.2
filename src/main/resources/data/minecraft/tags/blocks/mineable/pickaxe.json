@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "absolutepeace:stringod_print_reboot",
+    "absolutepeace:stringod_spider_box",
+    "absolutepeace:stringod_blaze_box",
+    "absolutepeace:automatic",
+    "absolutepeace:stringod_skeleton_box",
+    "absolutepeace:stringod_creeper_box",
+    "absolutepeace:stringod_slime_box",
+    "absolutepeace:stringod_magma_box",
+    "absolutepeace:stringod_enderman_box",
+    "absolutepeace:stringod_zombie_box",
+    "absolutepeace:stringod_drowned_box",
+    "absolutepeace:stringod_zombified_box",
+    "absolutepeace:stringod_evoker_box",
+    "absolutepeace:stringod_pillager_box",
+    "absolutepeace:stringod_spawn_exp",
+    "absolutepeace:string_od_charcoal_box",
+    "absolutepeace:stringod_coal_box",
+    "absolutepeace:stringod_copper_box",
+    "absolutepeace:stringod_diamond_box",
+    "absolutepeace:stringod_emerald_box",
+    "absolutepeace:stringod_gold_box",
+    "absolutepeace:stringod_iron_box",
+    "absolutepeace:stringod_netherite_box"
+  ]
+}

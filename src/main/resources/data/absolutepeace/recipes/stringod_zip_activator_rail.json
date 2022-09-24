@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:activator_rail"
+    },
+    "1": {
+      "item": "minecraft:activator_rail"
+    },
+    "2": {
+      "item": "minecraft:activator_rail"
+    },
+    "3": {
+      "item": "minecraft:activator_rail"
+    },
+    "4": {
+      "item": "minecraft:activator_rail"
+    },
+    "5": {
+      "item": "minecraft:activator_rail"
+    },
+    "6": {
+      "item": "minecraft:activator_rail"
+    },
+    "7": {
+      "item": "minecraft:activator_rail"
+    },
+    "8": {
+      "item": "minecraft:activator_rail"
+    }
+  },
+  "result": {
+    "item": "minecraft:activator_rail",
+    "count": 64
+  }
+}

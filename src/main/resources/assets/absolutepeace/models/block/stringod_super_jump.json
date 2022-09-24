@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/super_jump_side",
+    "up": "absolutepeace:blocks/super_jump_foword",
+    "north": "absolutepeace:blocks/super_jump_side",
+    "east": "absolutepeace:blocks/super_jump_side",
+    "south": "absolutepeace:blocks/super_jump_side",
+    "west": "absolutepeace:blocks/super_jump_side",
+    "particle": "absolutepeace:blocks/super_jump_side"
+  }
+}

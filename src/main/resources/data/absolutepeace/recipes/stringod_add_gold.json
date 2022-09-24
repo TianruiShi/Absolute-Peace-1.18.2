@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "1": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    },
+    "6": {
+      "item": "minecraft:glass_pane"
+    },
+    "7": {
+      "item": "minecraft:glass_pane"
+    },
+    "8": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_gold_box",
+    "count": 1
+  }
+}

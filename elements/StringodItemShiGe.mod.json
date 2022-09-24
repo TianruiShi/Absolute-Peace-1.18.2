@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "40m",
+    "customModelName": "Normal",
+    "name": "Stringod Item Shi Ge",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 4.0,
+    "attackSpeed": 6.0,
+    "enchantability": 99,
+    "damageVsEntity": 369.0,
+    "usageCount": 369,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true
+  }
+}

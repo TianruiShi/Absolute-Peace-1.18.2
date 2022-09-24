@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    },
+    "1": {
+      "item": "minecraft:book"
+    },
+    "2": {
+      "item": "minecraft:book"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:book"
+    },
+    "7": {
+      "item": "minecraft:book"
+    },
+    "8": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "minecraft:book",
+    "count": 64
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chest"
+    },
+    "1": {
+      "item": "minecraft:chest"
+    },
+    "2": {
+      "item": "minecraft:chest"
+    },
+    "3": {
+      "item": "minecraft:chest"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "minecraft:chest"
+    },
+    "6": {
+      "item": "minecraft:chest"
+    },
+    "7": {
+      "item": "minecraft:chest"
+    },
+    "8": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 64
+  }
+}

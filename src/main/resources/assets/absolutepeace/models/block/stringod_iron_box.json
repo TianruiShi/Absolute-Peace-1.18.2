@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/automatic",
+    "up": "absolutepeace:blocks/staircase_gimp",
+    "north": "absolutepeace:blocks/iron_ingot_je3_be2",
+    "east": "absolutepeace:blocks/iron_ingot_je3_be2",
+    "south": "absolutepeace:blocks/iron_ingot_je3_be2",
+    "west": "absolutepeace:blocks/iron_ingot_je3_be2",
+    "particle": "absolutepeace:blocks/automatic"
+  }
+}

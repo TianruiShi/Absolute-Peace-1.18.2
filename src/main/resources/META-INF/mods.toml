@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="absolutepeace"
+version="1.5.2"
+displayName="AbsolutePeace"
+credits="StringOD"
+displayURL="https://stringod.gitee.io/"
+logoFile="logo.png"
+authors="StringOD"
+description='''
+绝对和平的生存
+'''
+
+[[dependencies.absolutepeace]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

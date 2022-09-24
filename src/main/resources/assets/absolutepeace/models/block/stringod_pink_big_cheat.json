@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/pink_cheat_block_down",
+    "up": "absolutepeace:blocks/pink_cheat_block_up",
+    "north": "absolutepeace:blocks/pink_cheat_block",
+    "east": "absolutepeace:blocks/pink_cheat_block_side",
+    "south": "absolutepeace:blocks/pink_cheat_block_side",
+    "west": "absolutepeace:blocks/pink_cheat_block_side",
+    "particle": "absolutepeace:blocks/pink_cheat_block_down"
+  }
+}

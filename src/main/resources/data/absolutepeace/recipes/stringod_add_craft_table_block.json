@@ -1,0 +1,24 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "1": {
+      "item": "minecraft:chest"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_craft_table",
+    "count": 1
+  }
+}

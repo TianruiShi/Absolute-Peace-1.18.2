@@ -1,0 +1,30 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "absolutepeace:stringod_craft_table"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_item_shi_xiong",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:orange_wool"
+    },
+    "1": {
+      "item": "minecraft:slime_block"
+    },
+    "2": {
+      "item": "minecraft:orange_wool"
+    },
+    "3": {
+      "item": "minecraft:orange_wool"
+    },
+    "4": {
+      "item": "minecraft:ink_sac"
+    },
+    "5": {
+      "item": "minecraft:orange_wool"
+    },
+    "6": {
+      "item": "minecraft:orange_wool"
+    },
+    "7": {
+      "item": "minecraft:orange_wool"
+    },
+    "8": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "result": {
+    "item": "absolutepeace:stringod_super_jump",
+    "count": 1
+  }
+}

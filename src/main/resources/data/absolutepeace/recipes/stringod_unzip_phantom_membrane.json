@@ -1,0 +1,22 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "2": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:phantom_membrane",
+    "count": 4
+  }
+}

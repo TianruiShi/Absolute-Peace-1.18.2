@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/headpic",
+    "up": "absolutepeace:blocks/headpic",
+    "north": "absolutepeace:blocks/headpic",
+    "east": "absolutepeace:blocks/headpic",
+    "south": "absolutepeace:blocks/headpic",
+    "west": "absolutepeace:blocks/headpic",
+    "particle": "absolutepeace:blocks/headpic"
+  }
+}

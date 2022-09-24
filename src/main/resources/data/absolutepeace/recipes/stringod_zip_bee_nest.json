@@ -1,0 +1,42 @@
+{
+  "group": "stringod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    },
+    "1": {
+      "item": "minecraft:oak_planks"
+    },
+    "2": {
+      "item": "minecraft:oak_planks"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:oak_planks"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:bee_nest",
+    "count": 4
+  }
+}

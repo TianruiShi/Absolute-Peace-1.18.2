@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "absolutepeace:blocks/automatic",
+    "up": "absolutepeace:blocks/staircase_gimp",
+    "north": "absolutepeace:blocks/netherite_scrap_je2_be1",
+    "east": "absolutepeace:blocks/netherite_scrap_je2_be1",
+    "south": "absolutepeace:blocks/netherite_scrap_je2_be1",
+    "west": "absolutepeace:blocks/netherite_scrap_je2_be1",
+    "particle": "absolutepeace:blocks/automatic"
+  }
+}
