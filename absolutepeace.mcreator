@@ -1963,8 +1963,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.absolutepeace.stringod_drowned_box": "Stringod Drowned Box",
       "item.absolutepeace.stringod_emerald_world": "Stringod Emerald World Portal Igniter",
+      "block.absolutepeace.stringod_drowned_box": "Stringod Drowned Box",
       "block.absolutepeace.stringod_spawn_exp": "Stringod Spawn Exp",
       "block.absolutepeace.string_od_charcoal_box": "String OD Charcoal Box",
       "block.absolutepeace.stringod_enderman_box": "Stringod Enderman Box",
