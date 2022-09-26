@@ -1,0 +1,62 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "armor_helmet",
+    "enableBody": true,
+    "textureBody": "armor_clothes",
+    "enableLeggings": true,
+    "textureLeggings": "armor_pants",
+    "enableBoots": true,
+    "textureBoots": "armor_shoes",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "armorTextureFile": "stringodarmor",
+    "helmetName": "Stringod Armor 头盔",
+    "bodyName": "Stringod Armor 胸甲",
+    "leggingsName": "Stringod Armor 护腿",
+    "bootsName": "Stringod Armor 靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 69,
+    "damageValueHelmet": 33,
+    "damageValueBody": 36,
+    "damageValueLeggings": 36,
+    "damageValueBoots": 69,
+    "enchantability": 69,
+    "toughness": 9.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "item.armor.equip_iron"
+    },
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
+  }
+}

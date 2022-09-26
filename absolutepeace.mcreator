@@ -1957,17 +1957,72 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "stringod_draw_we_chat_screen_pic"
+    },
+    {
+      "name": "StringodArmorArmor",
+      "type": "armor",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor_armor"
+    },
+    {
+      "name": "StringodArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "StringodArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor_armor_body_recipe"
+    },
+    {
+      "name": "StringodArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "StringodArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor_armor_boots_recipe"
+    },
+    {
+      "name": "StringodArmor",
+      "type": "armor",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.absolutepeace.stringod_emerald_world": "Stringod Emerald World Portal Igniter",
       "block.absolutepeace.stringod_drowned_box": "Stringod Drowned Box",
+      "item.absolutepeace.stringod_emerald_world": "Stringod Emerald World Portal Igniter",
       "block.absolutepeace.stringod_spawn_exp": "Stringod Spawn Exp",
       "block.absolutepeace.string_od_charcoal_box": "String OD Charcoal Box",
       "block.absolutepeace.stringod_enderman_box": "Stringod Enderman Box",
+      "item.absolutepeace.stringod_armor_armor_boots": "StringodArmor Boots",
       "item.absolutepeace.stringod_diamond_world": "Stringod Diamond World Portal Igniter",
       "block.absolutepeace.stringod_zombified_box": "Stringod Zombified Box",
       "item.absolutepeace.stringod_iron_world": "Stringod Iron World Portal Igniter",
@@ -1983,16 +2038,23 @@
       "block.absolutepeace.stringod_magma_box": "Stringod Magma Box",
       "item.absolutepeace.stringod_item_shi_xiong": "Stringod Item Shi Xiong",
       "block.absolutepeace.stringod_print_reboot": "Stringod Print Reboot",
+      "item.absolutepeace.stringod_armor_boots": "Stringod Armor 靴子",
       "block.absolutepeace.stringod_gold_box": "Stringod Gold Box",
       "item.absolutepeace.stringod_item_shi_ge": "Stringod Item Shi Ge",
       "block.absolutepeace.stringod_blaze_box": "Stringod Blaze Box",
       "block.absolutepeace.stringod_zombie_box": "Stringod Zombie Box",
       "block.absolutepeace.stringod_emerald_box": "Stringod Emerald Box",
+      "item.absolutepeace.stringod_armor_leggings": "Stringod Armor 护腿",
       "block.absolutepeace.stringod_slime_box": "Stringod Slime Box",
       "block.absolutepeace.stringod_evoker_box": "Stringod Evoker Box",
+      "item.absolutepeace.stringod_armor_armor_leggings": "StringodArmor Leggings",
       "item.absolutepeace.stringod_item_ge_ge": "Stringod Item Ge Ge",
+      "item.absolutepeace.stringod_armor_chestplate": "Stringod Armor 胸甲",
+      "item.absolutepeace.stringod_armor_helmet": "Stringod Armor 头盔",
       "item.absolutepeace.stringod_coal_world": "Stringod Coal World Portal Igniter",
       "block.absolutepeace.stringod_spider_box": "Stringod Spider Box",
+      "item.absolutepeace.stringod_armor_armor_chestplate": "StringodArmor Chestplate",
+      "item.absolutepeace.stringod_armor_armor_helmet": "StringodArmor Helmet",
       "block.absolutepeace.stringod_creeper_box": "Stringod Creeper Box",
       "block.absolutepeace.stringod_craft_table": "Stringod Craft Table",
       "block.absolutepeace.stringod_iron_box": "Stringod Iron Box",
@@ -2008,7 +2070,7 @@
   "workspaceSettings": {
     "modid": "absolutepeace",
     "modName": "AbsolutePeace",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "description": "绝对和平的生存",
     "author": "StringOD",
     "websiteURL": "https://stringod.gitee.io/",
