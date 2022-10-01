@@ -15,7 +15,7 @@ public class StringodItemGeGeItem extends AxeItem {
 	public StringodItemGeGeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 369;
+				return 3699;
 			}
 
 			public float getSpeed() {

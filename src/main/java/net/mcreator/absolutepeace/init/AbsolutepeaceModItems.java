@@ -25,6 +25,12 @@ import net.mcreator.absolutepeace.item.StringodDiamondWorldItem;
 import net.mcreator.absolutepeace.item.StringodCoalWorldItem;
 import net.mcreator.absolutepeace.item.StringodArmorItem;
 import net.mcreator.absolutepeace.item.StringodArmorArmorItem;
+import net.mcreator.absolutepeace.item.StringOD_Copper_ArmmorArmorItem;
+import net.mcreator.absolutepeace.item.StringOD_CopperSwordItem;
+import net.mcreator.absolutepeace.item.StringOD_CopperShovelItem;
+import net.mcreator.absolutepeace.item.StringOD_CopperPickaxeItem;
+import net.mcreator.absolutepeace.item.StringOD_CopperHoeItem;
+import net.mcreator.absolutepeace.item.StringOD_CopperAxeItem;
 import net.mcreator.absolutepeace.AbsolutepeaceMod;
 
 public class AbsolutepeaceModItems {
@@ -105,6 +111,24 @@ public class AbsolutepeaceModItems {
 			() -> new StringodArmorArmorItem.Boots());
 	public static final RegistryObject<Item> STRINGOD_ZIP_ORE_ORE = block(AbsolutepeaceModBlocks.STRINGOD_ZIP_ORE_ORE,
 			CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> STRINGOD_RECOVERY_BLOCK = block(AbsolutepeaceModBlocks.STRINGOD_RECOVERY_BLOCK,
+			CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> STRING_OD_COPPER_PICKAXE = REGISTRY.register("string_od_copper_pickaxe",
+			() -> new StringOD_CopperPickaxeItem());
+	public static final RegistryObject<Item> STRING_OD_COPPER_AXE = REGISTRY.register("string_od_copper_axe", () -> new StringOD_CopperAxeItem());
+	public static final RegistryObject<Item> STRING_OD_COPPER_SWORD = REGISTRY.register("string_od_copper_sword",
+			() -> new StringOD_CopperSwordItem());
+	public static final RegistryObject<Item> STRING_OD_COPPER_SHOVEL = REGISTRY.register("string_od_copper_shovel",
+			() -> new StringOD_CopperShovelItem());
+	public static final RegistryObject<Item> STRING_OD_COPPER_HOE = REGISTRY.register("string_od_copper_hoe", () -> new StringOD_CopperHoeItem());
+	public static final RegistryObject<Item> STRING_OD_COPPER_ARMMOR_ARMOR_HELMET = REGISTRY.register("string_od_copper_armmor_armor_helmet",
+			() -> new StringOD_Copper_ArmmorArmorItem.Helmet());
+	public static final RegistryObject<Item> STRING_OD_COPPER_ARMMOR_ARMOR_CHESTPLATE = REGISTRY.register("string_od_copper_armmor_armor_chestplate",
+			() -> new StringOD_Copper_ArmmorArmorItem.Chestplate());
+	public static final RegistryObject<Item> STRING_OD_COPPER_ARMMOR_ARMOR_LEGGINGS = REGISTRY.register("string_od_copper_armmor_armor_leggings",
+			() -> new StringOD_Copper_ArmmorArmorItem.Leggings());
+	public static final RegistryObject<Item> STRING_OD_COPPER_ARMMOR_ARMOR_BOOTS = REGISTRY.register("string_od_copper_armmor_armor_boots",
+			() -> new StringOD_Copper_ArmmorArmorItem.Boots());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

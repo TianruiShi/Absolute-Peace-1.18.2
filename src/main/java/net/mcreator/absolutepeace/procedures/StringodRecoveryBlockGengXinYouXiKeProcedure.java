@@ -7,12 +7,12 @@ import net.minecraft.server.level.ServerPlayer;
 import java.util.function.Supplier;
 import java.util.Map;
 
-public class PinkCeatGUIDangZheGeJieMianDaKaiQiJianMeiKeFaShengProcedure {
+public class StringodRecoveryBlockGengXinYouXiKeProcedure {
 	public static void execute(Entity entity) {
 		if (entity == null)
 			return;
 		if (entity instanceof ServerPlayer _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
-			((Slot) _slots.get(180)).remove(1);
+			((Slot) _slots.get(0)).remove(1);
 			_player.containerMenu.broadcastChanges();
 		}
 	}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "absolutepeace:items/stringod_copper_pickaxe"
+  }
+}

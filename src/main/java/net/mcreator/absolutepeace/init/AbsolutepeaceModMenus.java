@@ -12,6 +12,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.inventory.MenuType;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 
+import net.mcreator.absolutepeace.world.inventory.StringodRecoveryBlockGUIMenu;
 import net.mcreator.absolutepeace.world.inventory.StringodPrintRebootGUIMenu;
 import net.mcreator.absolutepeace.world.inventory.StringodCraftTableGUIMenu;
 import net.mcreator.absolutepeace.world.inventory.PinkCeatGUIMenu;
@@ -28,6 +29,8 @@ public class AbsolutepeaceModMenus {
 			(id, inv, extraData) -> new StringodCraftTableGUIMenu(id, inv, extraData));
 	public static final MenuType<PinkCeatGUIMenu> PINK_CEAT_GUI = register("pink_ceat_gui",
 			(id, inv, extraData) -> new PinkCeatGUIMenu(id, inv, extraData));
+	public static final MenuType<StringodRecoveryBlockGUIMenu> STRINGOD_RECOVERY_BLOCK_GUI = register("stringod_recovery_block_gui",
+			(id, inv, extraData) -> new StringodRecoveryBlockGUIMenu(id, inv, extraData));
 
 	private static <T extends AbstractContainerMenu> MenuType<T> register(String registryname, IContainerFactory<T> containerFactory) {
 		MenuType<T> menuType = new MenuType<T>(containerFactory);

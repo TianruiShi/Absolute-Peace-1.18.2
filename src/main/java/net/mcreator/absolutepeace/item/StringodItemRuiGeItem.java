@@ -15,7 +15,7 @@ public class StringodItemRuiGeItem extends PickaxeItem {
 	public StringodItemRuiGeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 369;
+				return 3699;
 			}
 
 			public float getSpeed() {

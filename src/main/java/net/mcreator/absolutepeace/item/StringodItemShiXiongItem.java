@@ -15,7 +15,7 @@ public class StringodItemShiXiongItem extends ShovelItem {
 	public StringodItemShiXiongItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 369;
+				return 3699;
 			}
 
 			public float getSpeed() {

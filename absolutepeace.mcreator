@@ -1863,22 +1863,6 @@
       "registry_name": "stringod_pink_big_cheat"
     },
     {
-      "name": "PinkCeatGUIDangZheGeJieMianDaKaiQiJianMeiKeFaSheng",
-      "type": "procedure",
-      "sortid": 187,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "pink_ceat_gui_dang_zhe_ge_jie_mian_da_kai_qi_jian_mei_ke_fa_sheng",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
       "name": "StringodAddPinkCheat",
       "type": "recipe",
       "sortid": 188,
@@ -2047,6 +2031,172 @@
           }
         ]
       }
+    },
+    {
+      "name": "StringodRecoveryBlockGengXinYouXiKe",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_recovery_block_geng_xin_you_xi_ke",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StringodRecoveryBlockGUI",
+      "type": "gui",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_recovery_block_gui"
+    },
+    {
+      "name": "StringodRecoveryBlock",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_recovery_block"
+    },
+    {
+      "name": "StringodAddRecoveryRepice",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stringod_add_recovery_repice"
+    },
+    {
+      "name": "StringOD_CopperPickaxe",
+      "type": "tool",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_pickaxe"
+    },
+    {
+      "name": "StringOD_CopperAxe",
+      "type": "tool",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_axe"
+    },
+    {
+      "name": "StringOD_CopperSword",
+      "type": "tool",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_sword"
+    },
+    {
+      "name": "StringOD_CopperShovel",
+      "type": "tool",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_shovel"
+    },
+    {
+      "name": "StringOD_CopperHoe",
+      "type": "tool",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_hoe"
+    },
+    {
+      "name": "StringOD_CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_pickaxe_recipe"
+    },
+    {
+      "name": "StringOD_CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_axe_recipe"
+    },
+    {
+      "name": "StringOD_CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_sword_recipe"
+    },
+    {
+      "name": "StringOD_CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_shovel_recipe"
+    },
+    {
+      "name": "StringOD_CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_hoe_recipe"
+    },
+    {
+      "name": "StringOD_Copper_ArmmorArmor",
+      "type": "armor",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_armmor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "StringOD_Copper_ArmmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_armmor_armor_helmet_recipe"
+    },
+    {
+      "name": "StringOD_Copper_ArmmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_armmor_armor_body_recipe"
+    },
+    {
+      "name": "StringOD_Copper_ArmmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_armmor_armor_leggings_recipe"
+    },
+    {
+      "name": "StringOD_Copper_ArmmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_od_copper_armmor_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -2055,49 +2205,59 @@
     "en_us": {
       "item.absolutepeace.stringod_emerald_world": "Stringod Emerald World Portal Igniter",
       "block.absolutepeace.stringod_drowned_box": "Stringod Drowned Box",
-      "block.absolutepeace.stringod_spawn_exp": "Stringod Spawn Exp",
-      "block.absolutepeace.string_od_charcoal_box": "String OD Charcoal Box",
       "item.absolutepeace.stringod_armor_armor_boots": "StringodArmor Boots",
       "block.absolutepeace.stringod_enderman_box": "Stringod Enderman Box",
+      "item.absolutepeace.string_od_copper_axe": "StringOD_Copper Axe",
       "item.absolutepeace.stringod_diamond_world": "Stringod Diamond World Portal Igniter",
-      "block.absolutepeace.stringod_zombified_box": "Stringod Zombified Box",
-      "item.absolutepeace.stringod_iron_world": "Stringod Iron World Portal Igniter",
       "item.absolutepeace.stringod_item_rui_ge": "Stringod Item Rui Ge",
       "block.absolutepeace.stringod_coal_box": "Stringod Coal Box",
-      "block.absolutepeace.stringod_skeleton_box": "Stringod Skeleton Box",
+      "item.absolutepeace.string_od_copper_armmor_armor_leggings": "StringOD_Copper_Armmor Leggings",
+      "block.absolutepeace.stringod_recovery_block": "Stringod Recovery Block",
       "block.absolutepeace.automatic": "Automatic",
       "block.absolutepeace.stringod_pink_big_cheat": "Stringod Pink Big Cheat",
+      "block.absolutepeace.stringod_print_reboot": "Stringod Print Reboot",
+      "block.absolutepeace.stringod_blaze_box": "Stringod Blaze Box",
+      "block.absolutepeace.stringod_zombie_box": "Stringod Zombie Box",
+      "item.absolutepeace.stringod_armor_leggings": "Stringod Armor 护腿",
+      "block.absolutepeace.stringod_slime_box": "Stringod Slime Box",
+      "item.absolutepeace.stringod_armor_armor_leggings": "StringodArmor Leggings",
+      "item.absolutepeace.stringod_item_ge_ge": "Stringod Item Ge Ge",
+      "item.absolutepeace.stringod_armor_chestplate": "Stringod Armor 胸甲",
+      "item.absolutepeace.stringod_armor_helmet": "Stringod Armor 头盔",
+      "item.absolutepeace.string_od_copper_pickaxe": "StringOD_Copper Pickaxe",
+      "block.absolutepeace.stringod_creeper_box": "Stringod Creeper Box",
+      "item.absolutepeace.string_od_copper_armmor_armor_boots": "StringOD_Copper_Armmor Boots",
+      "block.absolutepeace.stringod_copper_box": "Stringod Copper Box",
+      "block.absolutepeace.stringod_pillager_box": "Stringod Pillager Box",
+      "item.absolutepeace.string_od_copper_shovel": "StringOD_Copper Shovel",
+      "block.absolutepeace.stringod_spawn_exp": "Stringod Spawn Exp",
+      "block.absolutepeace.string_od_charcoal_box": "String OD Charcoal Box",
+      "block.absolutepeace.stringod_zombified_box": "Stringod Zombified Box",
+      "item.absolutepeace.stringod_iron_world": "Stringod Iron World Portal Igniter",
+      "item.absolutepeace.string_od_copper_sword": "StringOD_Copper Sword",
+      "item.absolutepeace.string_od_copper_hoe": "StringOD_Copper Hoe",
+      "block.absolutepeace.stringod_skeleton_box": "Stringod Skeleton Box",
       "item.absolutepeace.stringod_gold_world": "Stringod Gold World Portal Igniter",
       "block.absolutepeace.stringod_diamond_box": "Stringod Diamond Box",
       "item.absolutepeace.stringod_quartz_world": "Stringod Quartz World Portal Igniter",
       "block.absolutepeace.stringod_netherite_box": "Stringod Netherite Box",
       "block.absolutepeace.stringod_magma_box": "Stringod Magma Box",
       "item.absolutepeace.stringod_item_shi_xiong": "Stringod Item Shi Xiong",
-      "block.absolutepeace.stringod_print_reboot": "Stringod Print Reboot",
       "item.absolutepeace.stringod_armor_boots": "Stringod Armor 靴子",
       "block.absolutepeace.stringod_gold_box": "Stringod Gold Box",
       "item.absolutepeace.stringod_item_shi_ge": "Stringod Item Shi Ge",
       "block.absolutepeace.stringod_zip_ore_ore": "StringodZipOre Ore",
-      "block.absolutepeace.stringod_blaze_box": "Stringod Blaze Box",
-      "block.absolutepeace.stringod_zombie_box": "Stringod Zombie Box",
       "block.absolutepeace.stringod_emerald_box": "Stringod Emerald Box",
-      "item.absolutepeace.stringod_armor_leggings": "Stringod Armor 护腿",
-      "block.absolutepeace.stringod_slime_box": "Stringod Slime Box",
       "block.absolutepeace.stringod_evoker_box": "Stringod Evoker Box",
-      "item.absolutepeace.stringod_armor_armor_leggings": "StringodArmor Leggings",
-      "item.absolutepeace.stringod_item_ge_ge": "Stringod Item Ge Ge",
-      "item.absolutepeace.stringod_armor_chestplate": "Stringod Armor 胸甲",
-      "item.absolutepeace.stringod_armor_helmet": "Stringod Armor 头盔",
+      "item.absolutepeace.string_od_copper_armmor_armor_helmet": "StringOD_Copper_Armmor Helmet",
       "item.absolutepeace.stringod_coal_world": "Stringod Coal World Portal Igniter",
       "block.absolutepeace.stringod_spider_box": "Stringod Spider Box",
       "item.absolutepeace.stringod_armor_armor_chestplate": "StringodArmor Chestplate",
       "item.absolutepeace.stringod_armor_armor_helmet": "StringodArmor Helmet",
-      "block.absolutepeace.stringod_creeper_box": "Stringod Creeper Box",
       "block.absolutepeace.stringod_craft_table": "Stringod Craft Table",
+      "item.absolutepeace.string_od_copper_armmor_armor_chestplate": "StringOD_Copper_Armmor Chestplate",
       "block.absolutepeace.stringod_iron_box": "Stringod Iron Box",
-      "block.absolutepeace.stringod_copper_box": "Stringod Copper Box",
-      "block.absolutepeace.stringod_super_jump": "Stringod Super Jump",
-      "block.absolutepeace.stringod_pillager_box": "Stringod Pillager Box"
+      "block.absolutepeace.stringod_super_jump": "Stringod Super Jump"
     }
   },
   "foldersRoot": {
@@ -2107,7 +2267,7 @@
   "workspaceSettings": {
     "modid": "absolutepeace",
     "modName": "AbsolutePeace",
-    "version": "1.5.4",
+    "version": "1.5.5",
     "description": "绝对和平的生存",
     "author": "StringOD",
     "websiteURL": "https://stringod.gitee.io/",

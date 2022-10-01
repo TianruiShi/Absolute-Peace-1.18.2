@@ -11,6 +11,7 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.client.gui.screens.MenuScreens;
 
+import net.mcreator.absolutepeace.client.gui.StringodRecoveryBlockGUIScreen;
 import net.mcreator.absolutepeace.client.gui.StringodPrintRebootGUIScreen;
 import net.mcreator.absolutepeace.client.gui.StringodCraftTableGUIScreen;
 import net.mcreator.absolutepeace.client.gui.PinkCeatGUIScreen;
@@ -23,6 +24,7 @@ public class AbsolutepeaceModScreens {
 			MenuScreens.register(AbsolutepeaceModMenus.STRINGOD_PRINT_REBOOT_GUI, StringodPrintRebootGUIScreen::new);
 			MenuScreens.register(AbsolutepeaceModMenus.STRINGOD_CRAFT_TABLE_GUI, StringodCraftTableGUIScreen::new);
 			MenuScreens.register(AbsolutepeaceModMenus.PINK_CEAT_GUI, PinkCeatGUIScreen::new);
+			MenuScreens.register(AbsolutepeaceModMenus.STRINGOD_RECOVERY_BLOCK_GUI, StringodRecoveryBlockGUIScreen::new);
 		});
 	}
 }

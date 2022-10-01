@@ -85,7 +85,7 @@ public class StringodZipOreOreFeature extends OreFeature {
 
 		public boolean test(BlockState blockAt, Random random) {
 			if (base_blocks == null) {
-				base_blocks = List.of(Blocks.COAL_ORE, Blocks.DEEPSLATE_COAL_ORE);
+				base_blocks = List.of(Blocks.COAL_ORE, Blocks.DEEPSLATE_COAL_ORE, Blocks.STONE, Blocks.GRANITE, Blocks.DIORITE, Blocks.SANDSTONE);
 			}
 			return base_blocks.contains(blockAt.getBlock());
 		}

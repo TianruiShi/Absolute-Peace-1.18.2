@@ -22,6 +22,7 @@ import net.mcreator.absolutepeace.block.StringodSpiderBoxBlock;
 import net.mcreator.absolutepeace.block.StringodSpawnExpBlock;
 import net.mcreator.absolutepeace.block.StringodSlimeBoxBlock;
 import net.mcreator.absolutepeace.block.StringodSkeletonBoxBlock;
+import net.mcreator.absolutepeace.block.StringodRecoveryBlockBlock;
 import net.mcreator.absolutepeace.block.StringodQuartzWorldPortalBlock;
 import net.mcreator.absolutepeace.block.StringodPrintRebootBlock;
 import net.mcreator.absolutepeace.block.StringodPinkBigCheatBlock;
@@ -98,6 +99,8 @@ public class AbsolutepeaceModBlocks {
 			() -> new StringodPinkBigCheatBlock());
 	public static final RegistryObject<Block> STRINGOD_SUPER_JUMP = REGISTRY.register("stringod_super_jump", () -> new StringodSuperJumpBlock());
 	public static final RegistryObject<Block> STRINGOD_ZIP_ORE_ORE = REGISTRY.register("stringod_zip_ore_ore", () -> new StringodZipOreOreBlock());
+	public static final RegistryObject<Block> STRINGOD_RECOVERY_BLOCK = REGISTRY.register("stringod_recovery_block",
+			() -> new StringodRecoveryBlockBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {
