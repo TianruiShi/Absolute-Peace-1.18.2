@@ -245,3 +245,11 @@
 
 ![盔甲外观](https://pic1.imgdb.cn/item/6331b05916f2c2beb1fe2a64.png)
 
+
+
+### 压缩的煤块
+
+* 生成范围1-125
+* 掉落5个煤
+
+![压缩的煤块](https://pic1.imgdb.cn/item/6337b1b716f2c2beb1658931.gif)
