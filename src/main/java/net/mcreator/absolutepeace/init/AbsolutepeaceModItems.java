@@ -23,7 +23,6 @@ import net.mcreator.absolutepeace.item.StringodGoldWorldItem;
 import net.mcreator.absolutepeace.item.StringodEmeraldWorldItem;
 import net.mcreator.absolutepeace.item.StringodDiamondWorldItem;
 import net.mcreator.absolutepeace.item.StringodCoalWorldItem;
-import net.mcreator.absolutepeace.item.StringodArmorItem;
 import net.mcreator.absolutepeace.item.StringodArmorArmorItem;
 import net.mcreator.absolutepeace.item.StringOD_Copper_ArmmorArmorItem;
 import net.mcreator.absolutepeace.item.StringOD_CopperSwordItem;
@@ -95,12 +94,6 @@ public class AbsolutepeaceModItems {
 	public static final RegistryObject<Item> STRINGOD_PINK_BIG_CHEAT = block(AbsolutepeaceModBlocks.STRINGOD_PINK_BIG_CHEAT,
 			CreativeModeTab.TAB_DECORATIONS);
 	public static final RegistryObject<Item> STRINGOD_SUPER_JUMP = block(AbsolutepeaceModBlocks.STRINGOD_SUPER_JUMP, CreativeModeTab.TAB_DECORATIONS);
-	public static final RegistryObject<Item> STRINGOD_ARMOR_HELMET = REGISTRY.register("stringod_armor_helmet", () -> new StringodArmorItem.Helmet());
-	public static final RegistryObject<Item> STRINGOD_ARMOR_CHESTPLATE = REGISTRY.register("stringod_armor_chestplate",
-			() -> new StringodArmorItem.Chestplate());
-	public static final RegistryObject<Item> STRINGOD_ARMOR_LEGGINGS = REGISTRY.register("stringod_armor_leggings",
-			() -> new StringodArmorItem.Leggings());
-	public static final RegistryObject<Item> STRINGOD_ARMOR_BOOTS = REGISTRY.register("stringod_armor_boots", () -> new StringodArmorItem.Boots());
 	public static final RegistryObject<Item> STRINGOD_ARMOR_ARMOR_HELMET = REGISTRY.register("stringod_armor_armor_helmet",
 			() -> new StringodArmorArmorItem.Helmet());
 	public static final RegistryObject<Item> STRINGOD_ARMOR_ARMOR_CHESTPLATE = REGISTRY.register("stringod_armor_armor_chestplate",

@@ -20,12 +20,12 @@ public abstract class StringodArmorArmorItem extends ArmorItem {
 		super(new ArmorMaterial() {
 			@Override
 			public int getDurabilityForSlot(EquipmentSlot slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 150;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 369;
 			}
 
 			@Override
 			public int getDefenseForSlot(EquipmentSlot slot) {
-				return new int[]{20, 60, 50, 20}[slot.getIndex()];
+				return new int[]{69, 36, 36, 33}[slot.getIndex()];
 			}
 
 			@Override
@@ -50,19 +50,19 @@ public abstract class StringodArmorArmorItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 0f;
+				return 9f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0f;
+				return 5f;
 			}
 		}, slot, properties);
 	}
 
 	public static class Helmet extends StringodArmorArmorItem {
 		public Helmet() {
-			super(EquipmentSlot.HEAD, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.HEAD, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).fireResistant());
 		}
 
 		@Override
@@ -73,7 +73,7 @@ public abstract class StringodArmorArmorItem extends ArmorItem {
 
 	public static class Chestplate extends StringodArmorArmorItem {
 		public Chestplate() {
-			super(EquipmentSlot.CHEST, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.CHEST, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).fireResistant());
 		}
 
 		@Override
@@ -84,7 +84,7 @@ public abstract class StringodArmorArmorItem extends ArmorItem {
 
 	public static class Leggings extends StringodArmorArmorItem {
 		public Leggings() {
-			super(EquipmentSlot.LEGS, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.LEGS, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).fireResistant());
 		}
 
 		@Override
@@ -95,7 +95,7 @@ public abstract class StringodArmorArmorItem extends ArmorItem {
 
 	public static class Boots extends StringodArmorArmorItem {
 		public Boots() {
-			super(EquipmentSlot.FEET, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT));
+			super(EquipmentSlot.FEET, new Item.Properties().tab(CreativeModeTab.TAB_COMBAT).fireResistant());
 		}
 
 		@Override

@@ -33,10 +33,5 @@ public class StringodEvokerBoxGengXinYouXiKeProcedure {
 			entityToSpawn.setPickUpDelay(10);
 			_level.addFreshEntity(entityToSpawn);
 		}
-		if (world instanceof Level _level && !_level.isClientSide()) {
-			ItemEntity entityToSpawn = new ItemEntity(_level, x, y, z, new ItemStack(Items.EXPERIENCE_BOTTLE));
-			entityToSpawn.setPickUpDelay(10);
-			_level.addFreshEntity(entityToSpawn);
-		}
 	}
 }

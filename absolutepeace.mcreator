@@ -1948,7 +1948,13 @@
       "sortid": 201,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "stringod_armor_armor"
+      "registry_name": "stringod_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "StringodArmorArmorHelmetRecipe",
@@ -1981,20 +1987,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "stringod_armor_armor_boots_recipe"
-    },
-    {
-      "name": "StringodArmor",
-      "type": "armor",
-      "sortid": 196,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stringod_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
     },
     {
       "name": "StringodZipOreOre",
@@ -2218,12 +2210,9 @@
       "block.absolutepeace.stringod_print_reboot": "Stringod Print Reboot",
       "block.absolutepeace.stringod_blaze_box": "Stringod Blaze Box",
       "block.absolutepeace.stringod_zombie_box": "Stringod Zombie Box",
-      "item.absolutepeace.stringod_armor_leggings": "Stringod Armor 护腿",
       "block.absolutepeace.stringod_slime_box": "Stringod Slime Box",
       "item.absolutepeace.stringod_armor_armor_leggings": "StringodArmor Leggings",
       "item.absolutepeace.stringod_item_ge_ge": "Stringod Item Ge Ge",
-      "item.absolutepeace.stringod_armor_chestplate": "Stringod Armor 胸甲",
-      "item.absolutepeace.stringod_armor_helmet": "Stringod Armor 头盔",
       "item.absolutepeace.string_od_copper_pickaxe": "StringOD_Copper Pickaxe",
       "block.absolutepeace.stringod_creeper_box": "Stringod Creeper Box",
       "item.absolutepeace.string_od_copper_armmor_armor_boots": "StringOD_Copper_Armmor Boots",
@@ -2243,7 +2232,6 @@
       "block.absolutepeace.stringod_netherite_box": "Stringod Netherite Box",
       "block.absolutepeace.stringod_magma_box": "Stringod Magma Box",
       "item.absolutepeace.stringod_item_shi_xiong": "Stringod Item Shi Xiong",
-      "item.absolutepeace.stringod_armor_boots": "Stringod Armor 靴子",
       "block.absolutepeace.stringod_gold_box": "Stringod Gold Box",
       "item.absolutepeace.stringod_item_shi_ge": "Stringod Item Shi Ge",
       "block.absolutepeace.stringod_zip_ore_ore": "StringodZipOre Ore",
@@ -2267,7 +2255,7 @@
   "workspaceSettings": {
     "modid": "absolutepeace",
     "modName": "AbsolutePeace",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "description": "绝对和平的生存",
     "author": "StringOD",
     "websiteURL": "https://stringod.gitee.io/",
