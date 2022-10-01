@@ -16,6 +16,7 @@ import net.minecraft.world.level.block.Block;
 
 import net.mcreator.absolutepeace.block.StringodZombifiedBoxBlock;
 import net.mcreator.absolutepeace.block.StringodZombieBoxBlock;
+import net.mcreator.absolutepeace.block.StringodZipOreOreBlock;
 import net.mcreator.absolutepeace.block.StringodSuperJumpBlock;
 import net.mcreator.absolutepeace.block.StringodSpiderBoxBlock;
 import net.mcreator.absolutepeace.block.StringodSpawnExpBlock;
@@ -96,6 +97,7 @@ public class AbsolutepeaceModBlocks {
 	public static final RegistryObject<Block> STRINGOD_PINK_BIG_CHEAT = REGISTRY.register("stringod_pink_big_cheat",
 			() -> new StringodPinkBigCheatBlock());
 	public static final RegistryObject<Block> STRINGOD_SUPER_JUMP = REGISTRY.register("stringod_super_jump", () -> new StringodSuperJumpBlock());
+	public static final RegistryObject<Block> STRINGOD_ZIP_ORE_ORE = REGISTRY.register("stringod_zip_ore_ore", () -> new StringodZipOreOreBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {
@@ -123,6 +125,7 @@ public class AbsolutepeaceModBlocks {
 			StringodGoldBoxBlock.registerRenderLayer();
 			StringodIronBoxBlock.registerRenderLayer();
 			StringodNetheriteBoxBlock.registerRenderLayer();
+			StringodZipOreOreBlock.registerRenderLayer();
 		}
 	}
 }

@@ -17,6 +17,7 @@ import net.minecraft.world.level.levelgen.GenerationStep;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.Holder;
 
+import net.mcreator.absolutepeace.world.features.ores.StringodZipOreOreFeature;
 import net.mcreator.absolutepeace.world.features.ores.StringodSpawnExpFeature;
 import net.mcreator.absolutepeace.AbsolutepeaceMod;
 
@@ -32,6 +33,9 @@ public class AbsolutepeaceModFeatures {
 	public static final RegistryObject<Feature<?>> STRINGOD_SPAWN_EXP = register("stringod_spawn_exp", StringodSpawnExpFeature::feature,
 			new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, StringodSpawnExpFeature.GENERATE_BIOMES,
 					StringodSpawnExpFeature::placedFeature));
+	public static final RegistryObject<Feature<?>> STRINGOD_ZIP_ORE_ORE = register("stringod_zip_ore_ore", StringodZipOreOreFeature::feature,
+			new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, StringodZipOreOreFeature.GENERATE_BIOMES,
+					StringodZipOreOreFeature::placedFeature));
 
 	private static RegistryObject<Feature<?>> register(String registryname, Supplier<Feature<?>> feature, FeatureRegistration featureRegistration) {
 		FEATURE_REGISTRATIONS.add(featureRegistration);

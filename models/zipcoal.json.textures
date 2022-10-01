@@ -1,7 +1,9 @@
 {
   "mappings": {
     "default": {
-      "map": {},
+      "map": {
+        "0": "zipcoal"
+      },
       "name": "default"
     }
   }

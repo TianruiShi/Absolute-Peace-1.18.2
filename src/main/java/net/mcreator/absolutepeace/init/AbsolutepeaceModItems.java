@@ -103,6 +103,8 @@ public class AbsolutepeaceModItems {
 			() -> new StringodArmorArmorItem.Leggings());
 	public static final RegistryObject<Item> STRINGOD_ARMOR_ARMOR_BOOTS = REGISTRY.register("stringod_armor_armor_boots",
 			() -> new StringodArmorArmorItem.Boots());
+	public static final RegistryObject<Item> STRINGOD_ZIP_ORE_ORE = block(AbsolutepeaceModBlocks.STRINGOD_ZIP_ORE_ORE,
+			CreativeModeTab.TAB_BUILDING_BLOCKS);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
